@@ -1,0 +1,80 @@
+.name {
+  font-family: 'Pacifico', cursive;
+  font-size: 70px;
+  text-align: center;
+  color: #00171f;
+  padding-top: 10px;
+}
+
+.parent {
+  display: flex;
+  text-align: center;
+  color: #003459;
+}
+
+.home {
+  flex-grow: 1;
+  flex-basis: 0;
+  margin: 25px;
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+}
+
+.home:hover {
+  color: #00a8e8;
+}
+
+.about {
+  flex-grow: 1;
+  flex-basis: 0;
+  margin: 25px;
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+}
+
+.about:hover {
+  color: #00a8e8;
+}
+
+.school {
+  flex-grow: 1;
+  flex-basis: 0;
+  margin: 25px;
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+}
+
+.school:hover {
+  color: #00a8e8;
+}
+
+.navbar {
+  text-decoration: none;
+  color: inherit;
+}
+
+.paragraph {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  margin: 40px;
+}
+
+.pics {
+  text-align: center;
+  display: flex;
+}
+
+.snowboard {
+  flex-grow: 1;
+  flex-basis: 0;
+}
+
+.travel {
+  flex-grow: 1;
+  flex-basis: 0;
+}
+
+.surf {
+  flex-grow: 1;
+  flex-basis: 0;
+}
